@@ -1,0 +1,71 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\luisd\OneDrive\Documentos\Juegos Terminados U\Atomic_Pong_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'CamaraIntro') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 4.142175 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.734728 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1928 -> priority: 1 
+  Thread -> id: 2a80 -> priority: 1 
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.563711 ms (FindLiveObjects: 0.046975 ms CreateObjectMapping: 0.048554 ms MarkObjects: 0.427915 ms  DeleteObjects: 0.024474 ms)
+
+The referenced script on this Behaviour (Game Object 'CamaraIntro') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.391120 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 3.672415 ms (FindLiveObjects: 0.046975 ms CreateObjectMapping: 0.048160 ms MarkObjects: 0.497787 ms  DeleteObjects: 3.078307 ms)
+
+The referenced script on this Behaviour (Game Object 'CamaraIntro') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.878726 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.489102 ms (FindLiveObjects: 0.041449 ms CreateObjectMapping: 0.047765 ms MarkObjects: 0.389229 ms  DeleteObjects: 0.010263 ms)
+
+The referenced script on this Behaviour (Game Object 'CamaraIntro') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.992021 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.575949 ms (FindLiveObjects: 0.045002 ms CreateObjectMapping: 0.073029 ms MarkObjects: 0.447653 ms  DeleteObjects: 0.009868 ms)
+
